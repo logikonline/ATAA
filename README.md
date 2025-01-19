@@ -43,15 +43,17 @@ Congress finds the following:
 1. Digital platforms employing algorithmic systems have become primary channels for public discourse and civic participation.  
 2. The opacity of algorithmic systems poses risks to democratic processes, individual autonomy, and equitable access to information.  
 3. Effective oversight of algorithmic systems requires established standards for transparency and accountability.  
-4. Protection of the public interest necessitates the creation of an independent regulatory body with appropriate oversight authority.  
+4. International collaboration is critical to ensuring algorithmic systems align with democratic values and human rights globally.  
+5. Protection of the public interest necessitates the creation of an independent regulatory body with appropriate oversight authority.  
 
 ### (b) Purpose  
 The purposes of this Act are:  
 
 1. To establish transparency requirements for algorithmic systems that significantly affect public discourse;  
 2. To prevent discriminatory or manipulative uses of algorithmic systems;  
-3. To protect individual rights in the digital public sphere; and  
-4. To promote accountability in the development and deployment of algorithmic systems.  
+3. To protect individual rights in the digital public sphere;  
+4. To promote accountability in the development and deployment of algorithmic systems; and  
+5. To foster international cooperation and align standards for algorithmic transparency.  
 
 ---
 
@@ -85,15 +87,21 @@ Each covered entity shall:
 
 1. Maintain documentation of algorithmic systems as prescribed by the Commission;  
 2. Publish public descriptions of algorithmic systems in a manner accessible to the general public;  
-3. Conduct impact assessments of material changes to algorithmic systems; and  
-4. Submit periodic reports to the Commission regarding compliance with this Act.  
+3. Conduct impact assessments of material changes to algorithmic systems, including their effects on vulnerable populations and global users;  
+4. Submit periodic reports to the Commission regarding compliance with this Act;  
+5. Provide users with clear, accessible explanations of how algorithmic systems influence their experience, including tools to adjust algorithmic preferences when feasible; and  
+6. Enable independent researchers to access anonymized data for auditing algorithmic fairness and bias, subject to privacy protections.  
 
 ### (b) Prohibited Practices  
 A covered entity may not:  
 
 1. Deploy algorithmic systems that knowingly discriminate against protected classes;  
-2. Utilize algorithmic systems to deliberately manipulate or deceive users; or  
-3. Retaliate against employees who report violations of this Act.  
+2. Utilize algorithmic systems to deliberately manipulate or deceive users;  
+3. Retaliate against employees who report violations of this Act; or  
+4. Restrict researchers’ lawful efforts to study or audit algorithmic systems.  
+
+### (c) Incentives for Smaller Entities  
+Smaller platforms (under the defined threshold of a covered entity) may voluntarily adopt guidelines issued by the Commission and receive technical assistance and recognition for compliance efforts.  
 
 ---
 
@@ -113,9 +121,10 @@ The Commission shall have authority to:
 
 1. Promulgate regulations to implement this Act;  
 2. Conduct investigations and audits of covered entities;  
-3. Issue cease and desist orders;  
-4. Impose civil penalties; and  
-5. Issue guidance and educational materials.  
+3. Collaborate with international regulatory bodies to align transparency standards;  
+4. Issue cease and desist orders;  
+5. Impose civil penalties; and  
+6. Issue guidance and educational materials for public awareness.  
 
 ---
 
@@ -134,10 +143,10 @@ The attorney general of a State may bring a civil action on behalf of the reside
 
 ## SEC. 7. AUTHORIZATION OF APPROPRIATIONS.  
 
-There are authorized to be appropriated such sums as may be necessary to carry out this Act.  
+There are authorized to be appropriated such sums as may be necessary to carry out this Act, including funds for research grants, public education initiatives, and international partnerships.  
 
 ---
 
 ## SEC. 8. EFFECTIVE DATE.  
 
-This Act shall take effect 180 days after the date of enactment of this Act.
+This Act shall take effect 180 days after the date of enactment of this Act. 
